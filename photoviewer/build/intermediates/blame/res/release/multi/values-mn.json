@@ -1,0 +1,83 @@
+[
+    {
+        "outputFile": "/home/deki/Projects/Messaging/photoviewer/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-mn/values-mn.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 89,
+                    "endOffset": 190
+                },
+                "from": {
+                    "file": "/home/deki/Projects/Messaging/photoviewer/src/main/res/values-mn/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1058,
+                        "endColumn": 89,
+                        "endOffset": 1143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 195,
+                    "endColumn": 140,
+                    "endOffset": 331
+                },
+                "from": {
+                    "file": "/home/deki/Projects/Messaging/photoviewer/src/main/res/values-mn/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 839,
+                        "endColumn": 148,
+                        "endOffset": 983
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 336,
+                    "endColumn": 69,
+                    "endOffset": 401
+                },
+                "from": {
+                    "file": "/home/deki/Projects/Messaging/photoviewer/src/main/res/values-mn/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 988,
+                        "endColumn": 69,
+                        "endOffset": 1053
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 406,
+                    "endColumn": 128,
+                    "endOffset": 530
+                },
+                "from": {
+                    "file": "/home/deki/Projects/Messaging/photoviewer/src/main/res/values-mn/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1148,
+                        "endColumn": 136,
+                        "endOffset": 1280
+                    }
+                }
+            }
+        ]
+    }
+]

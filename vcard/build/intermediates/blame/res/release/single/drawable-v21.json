@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/deki/Projects/Messaging/vcard/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/vcard/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/vcard/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/vcard/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]

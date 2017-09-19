@@ -1,0 +1,197 @@
+[
+    {
+        "outputFile": "/home/deki/Projects/Messaging/chips/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-gl/values-gl.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 128,
+                    "endOffset": 229
+                },
+                "from": {
+                    "file": "/home/deki/Projects/Messaging/chips/src/main/res/values-gl/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1320,
+                        "endColumn": 128,
+                        "endOffset": 1444
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 234,
+                    "endColumn": 129,
+                    "endOffset": 359
+                },
+                "from": {
+                    "file": "/home/deki/Projects/Messaging/chips/src/main/res/values-gl/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1190,
+                        "endColumn": 129,
+                        "endOffset": 1315
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 364,
+                    "endColumn": 77,
+                    "endOffset": 437
+                },
+                "from": {
+                    "file": "/home/deki/Projects/Messaging/chips/src/main/res/values-gl/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1112,
+                        "endColumn": 77,
+                        "endOffset": 1185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 442,
+                    "endColumn": 86,
+                    "endOffset": 524
+                },
+                "from": {
+                    "file": "/home/deki/Projects/Messaging/chips/src/main/res/values-gl/strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1680,
+                        "endColumn": 86,
+                        "endOffset": 1762
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 529,
+                    "endColumn": 82,
+                    "endOffset": 607
+                },
+                "from": {
+                    "file": "/home/deki/Projects/Messaging/chips/src/main/res/values-gl/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1597,
+                        "endColumn": 82,
+                        "endOffset": 1675
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 612,
+                    "endColumn": 112,
+                    "endOffset": 720
+                },
+                "from": {
+                    "file": "/home/deki/Projects/Messaging/chips/src/main/res/values-gl/strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1767,
+                        "endColumn": 112,
+                        "endOffset": 1875
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 725,
+                    "endColumn": 106,
+                    "endOffset": 827
+                },
+                "from": {
+                    "file": "/home/deki/Projects/Messaging/chips/src/main/res/values-gl/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 910,
+                        "endColumn": 106,
+                        "endOffset": 1012
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 832,
+                    "endColumn": 94,
+                    "endOffset": 922
+                },
+                "from": {
+                    "file": "/home/deki/Projects/Messaging/chips/src/main/res/values-gl/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1017,
+                        "endColumn": 94,
+                        "endOffset": 1107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 927,
+                    "endColumn": 143,
+                    "endOffset": 1066
+                },
+                "from": {
+                    "file": "/home/deki/Projects/Messaging/chips/src/main/res/values-gl/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1449,
+                        "endColumn": 147,
+                        "endOffset": 1592
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1071,
+                    "endColumn": 101,
+                    "endOffset": 1168
+                },
+                "from": {
+                    "file": "/home/deki/Projects/Messaging/chips/src/main/res/values-gl/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 804,
+                        "endColumn": 105,
+                        "endOffset": 905
+                    }
+                }
+            }
+        ]
+    }
+]

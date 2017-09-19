@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "/home/deki/Projects/Messaging/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldrtl-v21/values-ldrtl-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 12,
+                    "endOffset": 411
+                },
+                "from": {
+                    "file": "/home/deki/Projects/Messaging/app/src/main/res/values-ldrtl-v21/styles.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 681,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 1037
+                    }
+                }
+            }
+        ]
+    }
+]

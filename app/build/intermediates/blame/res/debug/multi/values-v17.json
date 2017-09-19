@@ -1,0 +1,700 @@
+[
+    {
+        "outputFile": "/home/deki/Projects/Messaging/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v17/values-v17.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 12,
+                    "endOffset": 220
+                },
+                "from": {
+                    "file": "/home/deki/Projects/Messaging/app/src/main/res/values-v17/styles.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 1938,
+                        "endLine": 56,
+                        "endColumn": 12,
+                        "endOffset": 2103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 225,
+                    "endLine": 9,
+                    "endColumn": 12,
+                    "endOffset": 459
+                },
+                "from": {
+                    "file": "/home/deki/Projects/Messaging/app/src/main/res/values-v17/styles.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 2385,
+                        "endLine": 70,
+                        "endColumn": 12,
+                        "endOffset": 2619
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 464,
+                    "endLine": 12,
+                    "endColumn": 12,
+                    "endOffset": 578
+                },
+                "from": {
+                    "file": "/home/deki/Projects/Messaging/app/src/main/res/values-v17/styles.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 798,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 912
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 583,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 741
+                },
+                "from": {
+                    "file": "/home/deki/Projects/Messaging/app/src/main/res/values-v17/styles.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1083,
+                        "endLine": 33,
+                        "endColumn": 12,
+                        "endOffset": 1241
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 746,
+                    "endLine": 19,
+                    "endColumn": 12,
+                    "endOffset": 851
+                },
+                "from": {
+                    "file": "/home/deki/Projects/Messaging/app/src/main/res/values-v17/styles.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 1827,
+                        "endLine": 51,
+                        "endColumn": 12,
+                        "endOffset": 1932
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 856,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 1198
+                },
+                "from": {
+                    "file": "/home/deki/Projects/Messaging/chips/build/intermediates/bundles/default/res/values-v17/values-v17.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1203,
+                    "endLine": 30,
+                    "endColumn": 12,
+                    "endOffset": 1481
+                },
+                "from": {
+                    "file": "/home/deki/Projects/Messaging/chips/build/intermediates/bundles/default/res/values-v17/values-v17.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 402,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 680
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1486,
+                    "endLine": 36,
+                    "endColumn": 12,
+                    "endOffset": 1868
+                },
+                "from": {
+                    "file": "/home/deki/Projects/Messaging/chips/build/intermediates/bundles/default/res/values-v17/values-v17.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 685,
+                        "endLine": 18,
+                        "endColumn": 12,
+                        "endOffset": 1067
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1873,
+                    "endLine": 39,
+                    "endColumn": 12,
+                    "endOffset": 2034
+                },
+                "from": {
+                    "file": "/home/deki/Projects/Messaging/chips/build/intermediates/bundles/default/res/values-v17/values-v17.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1072,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 1233
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2039,
+                    "endLine": 42,
+                    "endColumn": 12,
+                    "endOffset": 2200
+                },
+                "from": {
+                    "file": "/home/deki/Projects/Messaging/chips/build/intermediates/bundles/default/res/values-v17/values-v17.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1238,
+                        "endLine": 24,
+                        "endColumn": 12,
+                        "endOffset": 1399
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2205,
+                    "endLine": 45,
+                    "endColumn": 12,
+                    "endOffset": 2366
+                },
+                "from": {
+                    "file": "/home/deki/Projects/Messaging/chips/build/intermediates/bundles/default/res/values-v17/values-v17.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1404,
+                        "endLine": 27,
+                        "endColumn": 12,
+                        "endOffset": 1565
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2371,
+                    "endLine": 48,
+                    "endColumn": 12,
+                    "endOffset": 2478
+                },
+                "from": {
+                    "file": "/home/deki/Projects/Messaging/app/src/main/res/values-v17/styles.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 2109,
+                        "endLine": 60,
+                        "endColumn": 12,
+                        "endOffset": 2216
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 2483,
+                    "endLine": 52,
+                    "endColumn": 12,
+                    "endOffset": 2714
+                },
+                "from": {
+                    "file": "/home/deki/Projects/Messaging/app/src/main/res/values-v17/styles.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 2625,
+                        "endLine": 75,
+                        "endColumn": 12,
+                        "endOffset": 2856
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 2719,
+                    "endLine": 56,
+                    "endColumn": 12,
+                    "endOffset": 2876
+                },
+                "from": {
+                    "file": "/home/deki/Projects/Messaging/app/src/main/res/values-v17/styles.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 2222,
+                        "endLine": 65,
+                        "endColumn": 12,
+                        "endOffset": 2379
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 2881,
+                    "endLine": 59,
+                    "endColumn": 12,
+                    "endOffset": 2992
+                },
+                "from": {
+                    "file": "/home/deki/Projects/Messaging/app/src/main/res/values-v17/styles.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 681,
+                        "endLine": 19,
+                        "endColumn": 12,
+                        "endOffset": 792
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 2997,
+                    "endLine": 63,
+                    "endColumn": 12,
+                    "endOffset": 3226
+                },
+                "from": {
+                    "file": "/home/deki/Projects/Messaging/app/src/main/res/values-v17/styles.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 1592,
+                        "endLine": 47,
+                        "endColumn": 12,
+                        "endOffset": 1821
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 3231,
+                    "endLine": 67,
+                    "endColumn": 12,
+                    "endOffset": 3390
+                },
+                "from": {
+                    "file": "/home/deki/Projects/Messaging/app/src/main/res/values-v17/styles.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 918,
+                        "endLine": 28,
+                        "endColumn": 12,
+                        "endOffset": 1077
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 3395,
+                    "endLine": 70,
+                    "endColumn": 12,
+                    "endOffset": 3500
+                },
+                "from": {
+                    "file": "/home/deki/Projects/Messaging/app/src/main/res/values-v17/styles.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1481,
+                        "endLine": 42,
+                        "endColumn": 12,
+                        "endOffset": 1586
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 3505,
+                    "endLine": 73,
+                    "endColumn": 12,
+                    "endOffset": 3673
+                },
+                "from": {
+                    "file": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/values-v17/values-v17.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 223
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 3678,
+                    "endLine": 77,
+                    "endColumn": 12,
+                    "endOffset": 3901
+                },
+                "from": {
+                    "file": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/values-v17/values-v17.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 228,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 451
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 3906,
+                    "endLine": 80,
+                    "endColumn": 12,
+                    "endOffset": 4059
+                },
+                "from": {
+                    "file": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/values-v17/values-v17.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 456,
+                        "endLine": 11,
+                        "endColumn": 12,
+                        "endOffset": 609
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 4064,
+                    "endLine": 83,
+                    "endColumn": 12,
+                    "endOffset": 4209
+                },
+                "from": {
+                    "file": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/values-v17/values-v17.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 614,
+                        "endLine": 14,
+                        "endColumn": 12,
+                        "endOffset": 759
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 4214,
+                    "endLine": 86,
+                    "endColumn": 12,
+                    "endOffset": 4381
+                },
+                "from": {
+                    "file": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/values-v17/values-v17.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 764,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 931
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 4386,
+                    "endLine": 90,
+                    "endColumn": 12,
+                    "endOffset": 4609
+                },
+                "from": {
+                    "file": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/values-v17/values-v17.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 936,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 1159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 4614,
+                    "endLine": 94,
+                    "endColumn": 12,
+                    "endOffset": 4851
+                },
+                "from": {
+                    "file": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/values-v17/values-v17.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1164,
+                        "endLine": 25,
+                        "endColumn": 12,
+                        "endOffset": 1401
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 4856,
+                    "endLine": 97,
+                    "endColumn": 12,
+                    "endOffset": 5022
+                },
+                "from": {
+                    "file": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/values-v17/values-v17.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1406,
+                        "endLine": 28,
+                        "endColumn": 12,
+                        "endOffset": 1572
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 5027,
+                    "endLine": 100,
+                    "endColumn": 12,
+                    "endOffset": 5196
+                },
+                "from": {
+                    "file": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/values-v17/values-v17.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1577,
+                        "endLine": 31,
+                        "endColumn": 12,
+                        "endOffset": 1746
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 5201,
+                    "endLine": 103,
+                    "endColumn": 12,
+                    "endOffset": 5365
+                },
+                "from": {
+                    "file": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/values-v17/values-v17.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1751,
+                        "endLine": 34,
+                        "endColumn": 12,
+                        "endOffset": 1915
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 5370,
+                    "endLine": 107,
+                    "endColumn": 12,
+                    "endOffset": 5638
+                },
+                "from": {
+                    "file": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/values-v17/values-v17.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1920,
+                        "endLine": 38,
+                        "endColumn": 12,
+                        "endOffset": 2188
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 5643,
+                    "endLine": 110,
+                    "endColumn": 12,
+                    "endOffset": 5838
+                },
+                "from": {
+                    "file": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/values-v17/values-v17.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2193,
+                        "endLine": 41,
+                        "endColumn": 12,
+                        "endOffset": 2388
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 5843,
+                    "endLine": 114,
+                    "endColumn": 12,
+                    "endOffset": 6042
+                },
+                "from": {
+                    "file": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/values-v17/values-v17.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 2393,
+                        "endLine": 45,
+                        "endColumn": 12,
+                        "endOffset": 2592
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 6047,
+                    "endLine": 118,
+                    "endColumn": 12,
+                    "endOffset": 6371
+                },
+                "from": {
+                    "file": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/values-v17/values-v17.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 2597,
+                        "endLine": 49,
+                        "endColumn": 12,
+                        "endOffset": 2921
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 6376,
+                    "endLine": 122,
+                    "endColumn": 12,
+                    "endOffset": 6604
+                },
+                "from": {
+                    "file": "/home/deki/Projects/Messaging/app/src/main/res/values-v17/styles.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1247,
+                        "endLine": 38,
+                        "endColumn": 12,
+                        "endOffset": 1475
+                    }
+                }
+            }
+        ]
+    }
+]

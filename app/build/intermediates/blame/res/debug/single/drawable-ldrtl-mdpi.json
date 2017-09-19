@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi/ic_send_light.png",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/drawable-ldrtl-mdpi/ic_send_light.png"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi/ic_keyboard_arrow_right_light.png",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/drawable-ldrtl-mdpi/ic_keyboard_arrow_right_light.png"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi/msg_bubble_incoming.9.png",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/drawable-ldrtl-mdpi/msg_bubble_incoming.9.png"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi/sym_keyboard_delete_holo_dark.png",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/drawable-ldrtl-mdpi/sym_keyboard_delete_holo_dark.png"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi/ic_keyboard_arrow_left_light.png",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/drawable-ldrtl-mdpi/ic_keyboard_arrow_left_light.png"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi/msg_bubble_input.9.png",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/drawable-ldrtl-mdpi/msg_bubble_input.9.png"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi/msg_bubble_outgoing.9.png",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/drawable-ldrtl-mdpi/msg_bubble_outgoing.9.png"
+    }
+]

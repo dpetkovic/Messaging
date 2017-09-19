@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/xml-v21/preferences_per_subscription.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/xml-v21/preferences_per_subscription.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/xml-v21/preferences_application.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/xml-v21/preferences_application.xml"
+    }
+]

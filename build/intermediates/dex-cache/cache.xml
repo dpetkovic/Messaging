@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/deki/.android/build-cache/c15831281af2e9fe54b2b91403e8fd4c7f764ba9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/deki/Projects/Messaging/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fa570db136458a717845ce21f712df3f7f7bdef0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/deki/.android/build-cache/0b9a45d34cdd12e95d7bd9df55b65e7cbcc5b813/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/deki/Projects/Messaging/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c9b72d5faeda74bc9e0d7ab67b8735912a930938/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/deki/.android/build-cache/3b9188eed9ccc2371bec8dbd2b1068785be4dd90/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/deki/Projects/Messaging/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a8f53e3fa39d8241c04cc596602b0f5445a9c0f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/deki/.android/build-cache/fc33dac998040fee46d2d343860b56ad22c9c731/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/deki/Projects/Messaging/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9615bb89777d9e5dea27abc5858cf8428aa9087b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/deki/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.0.18/5f65affce1684999e2f4024983835efc3504012e/error_prone_annotations-2.0.18.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f65affce1684999e2f4024983835efc3504012e">
+        <dex dex="/home/deki/Projects/Messaging/app/build/intermediates/transforms/dex/debug/folders/1000/10/error_prone_annotations-2.0.18_0a0b4dc17faa6839d219e417df4bae3089645edd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/deki/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/23.0-android/24e15a141252eb80c53381d78ef61efd1353763/guava-23.0-android.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="024e15a141252eb80c53381d78ef61efd1353763">
+        <dex dex="/home/deki/Projects/Messaging/app/build/intermediates/transforms/dex/debug/folders/1000/10/guava-23.0-android_2d05501162687d88cecf9fa3a94d76eaa909a611/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/deki/.gradle/caches/modules-2/files-2.1/org.codehaus.mojo/animal-sniffer-annotations/1.14/775b7e22fb10026eed3f86e8dc556dfafe35f2d5/animal-sniffer-annotations-1.14.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="775b7e22fb10026eed3f86e8dc556dfafe35f2d5">
+        <dex dex="/home/deki/Projects/Messaging/app/build/intermediates/transforms/dex/debug/folders/1000/10/animal-sniffer-annotations-1.14_0290f10fd8279de7310aa4d987fef33d9abd6a1a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/deki/.gradle/caches/modules-2/files-2.1/com.googlecode.libphonenumber/libphonenumber/8.3.3/f457d4456f20f20bed793163f917d898f21c7e34/libphonenumber-8.3.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f457d4456f20f20bed793163f917d898f21c7e34">
+        <dex dex="/home/deki/Projects/Messaging/app/build/intermediates/transforms/dex/debug/folders/1000/10/libphonenumber-8.3.3_76ab5abc39990f46a8e91e4c9d9812ac7524bd9e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/deki/.android/build-cache/24b8f79c1cf9d5430314b683e155441d8d2283b1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/deki/Projects/Messaging/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6b9af9418465a4cb5701f898b89f561768468ad8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/deki/.android/build-cache/6a5849dabb2e7675f749aa18ec0771af775391ad/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/deki/Projects/Messaging/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fa51baa3f6f82ba07200e9aa12346be8abc1c436/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/deki/.android/build-cache/862d906139b51cba8dadabc6d4520ff292d589ba/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/deki/Projects/Messaging/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_29088abdad82d11b23cd3e39bd7a36a1c555ecfa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/deki/Projects/Messaging/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e20b1f4e2ca9aafa83fcfceb6031dc3830fbf990">
+        <dex dex="/home/deki/Projects/Messaging/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ccf66782d3c2125d890d478b319c3d3e6483cfe8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/deki/Projects/Messaging/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/deki/Projects/Messaging/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9b0452226f5ed0c30bfc8eef7190f0a030308473/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/deki/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/1.1/976d8d30bebc251db406f2bdb3eb01962b5685b3/j2objc-annotations-1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="976d8d30bebc251db406f2bdb3eb01962b5685b3">
+        <dex dex="/home/deki/Projects/Messaging/app/build/intermediates/transforms/dex/debug/folders/1000/10/j2objc-annotations-1.1_84f4ece64c438e7b2c43226effce0a743c09f482/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/deki/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="/home/deki/Projects/Messaging/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-1.3.9_3361ba4c435798a09e3d8ce3f03da2609eb5bcaf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/deki/Projects/Messaging/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aecf973e875021fe8d2ead9376184c37f827bfe6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/deki/.android/build-cache/802fcf5809c8d95b9ce4d1928952eb1345d2d786/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/deki/Projects/Messaging/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dca676a6beb58a0f3e7450615d328d118ea3c405/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/deki/.android/build-cache/a9f9b72e09d4c8149b56fe3718756b25d10749c6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/deki/Projects/Messaging/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bc265c3e411b17795a074aa8f41b413bf1c3facd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/deki/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/deki/Projects/Messaging/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_2429b477736b9857b74013d903faefb40e14a631/classes.dex" />
+    </item>
+
+</items>

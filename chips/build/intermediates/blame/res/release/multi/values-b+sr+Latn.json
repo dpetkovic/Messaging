@@ -1,0 +1,596 @@
+[
+    {
+        "outputFile": "/home/deki/Projects/Messaging/chips/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-b+sr+Latn/values-b+sr+Latn.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 108,
+                    "endOffset": 209
+                },
+                "from": {
+                    "file": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/values-b+sr+Latn/values-b+sr+Latn.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 108,
+                        "endOffset": 159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 214,
+                    "endColumn": 107,
+                    "endOffset": 317
+                },
+                "from": {
+                    "file": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/values-b+sr+Latn/values-b+sr+Latn.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 164,
+                        "endColumn": 107,
+                        "endOffset": 267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 322,
+                    "endColumn": 122,
+                    "endOffset": 440
+                },
+                "from": {
+                    "file": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/values-b+sr+Latn/values-b+sr+Latn.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 272,
+                        "endColumn": 122,
+                        "endOffset": 390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 445,
+                    "endColumn": 103,
+                    "endOffset": 544
+                },
+                "from": {
+                    "file": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/values-b+sr+Latn/values-b+sr+Latn.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 395,
+                        "endColumn": 103,
+                        "endOffset": 494
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 549,
+                    "endColumn": 105,
+                    "endOffset": 650
+                },
+                "from": {
+                    "file": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/values-b+sr+Latn/values-b+sr+Latn.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 499,
+                        "endColumn": 105,
+                        "endOffset": 600
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 655,
+                    "endColumn": 85,
+                    "endOffset": 736
+                },
+                "from": {
+                    "file": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/values-b+sr+Latn/values-b+sr+Latn.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 605,
+                        "endColumn": 85,
+                        "endOffset": 686
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 741,
+                    "endColumn": 103,
+                    "endOffset": 840
+                },
+                "from": {
+                    "file": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/values-b+sr+Latn/values-b+sr+Latn.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 691,
+                        "endColumn": 103,
+                        "endOffset": 790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 845,
+                    "endColumn": 117,
+                    "endOffset": 958
+                },
+                "from": {
+                    "file": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/values-b+sr+Latn/values-b+sr+Latn.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 795,
+                        "endColumn": 117,
+                        "endOffset": 908
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 963,
+                    "endColumn": 81,
+                    "endOffset": 1040
+                },
+                "from": {
+                    "file": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/values-b+sr+Latn/values-b+sr+Latn.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 913,
+                        "endColumn": 81,
+                        "endOffset": 990
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1045,
+                    "endColumn": 80,
+                    "endOffset": 1121
+                },
+                "from": {
+                    "file": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/values-b+sr+Latn/values-b+sr+Latn.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 995,
+                        "endColumn": 80,
+                        "endOffset": 1071
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1126,
+                    "endColumn": 87,
+                    "endOffset": 1209
+                },
+                "from": {
+                    "file": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/values-b+sr+Latn/values-b+sr+Latn.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1076,
+                        "endColumn": 87,
+                        "endOffset": 1159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1214,
+                    "endColumn": 105,
+                    "endOffset": 1315
+                },
+                "from": {
+                    "file": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/values-b+sr+Latn/values-b+sr+Latn.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1164,
+                        "endColumn": 105,
+                        "endOffset": 1265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1320,
+                    "endColumn": 107,
+                    "endOffset": 1423
+                },
+                "from": {
+                    "file": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/values-b+sr+Latn/values-b+sr+Latn.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1270,
+                        "endColumn": 107,
+                        "endOffset": 1373
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1428,
+                    "endColumn": 100,
+                    "endOffset": 1524
+                },
+                "from": {
+                    "file": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/values-b+sr+Latn/values-b+sr+Latn.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1378,
+                        "endColumn": 100,
+                        "endOffset": 1474
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1529,
+                    "endColumn": 104,
+                    "endOffset": 1629
+                },
+                "from": {
+                    "file": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/values-b+sr+Latn/values-b+sr+Latn.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1479,
+                        "endColumn": 104,
+                        "endOffset": 1579
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1634,
+                    "endColumn": 107,
+                    "endOffset": 1737
+                },
+                "from": {
+                    "file": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/values-b+sr+Latn/values-b+sr+Latn.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1584,
+                        "endColumn": 107,
+                        "endOffset": 1687
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1742,
+                    "endColumn": 100,
+                    "endOffset": 1838
+                },
+                "from": {
+                    "file": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/values-b+sr+Latn/values-b+sr+Latn.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1692,
+                        "endColumn": 100,
+                        "endOffset": 1788
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1843,
+                    "endColumn": 127,
+                    "endOffset": 1966
+                },
+                "from": {
+                    "file": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/values-b+sr+Latn/values-b+sr+Latn.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1793,
+                        "endColumn": 127,
+                        "endOffset": 1916
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1971,
+                    "endColumn": 96,
+                    "endOffset": 2063
+                },
+                "from": {
+                    "file": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/values-b+sr+Latn/values-b+sr+Latn.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1921,
+                        "endColumn": 96,
+                        "endOffset": 2013
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2068,
+                    "endColumn": 121,
+                    "endOffset": 2185
+                },
+                "from": {
+                    "file": "/home/deki/Projects/Messaging/chips/src/main/res/values-b+sr+Latn/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1300,
+                        "endColumn": 121,
+                        "endOffset": 1417
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2190,
+                    "endColumn": 130,
+                    "endOffset": 2316
+                },
+                "from": {
+                    "file": "/home/deki/Projects/Messaging/chips/src/main/res/values-b+sr+Latn/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1169,
+                        "endColumn": 130,
+                        "endOffset": 1295
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2321,
+                    "endColumn": 77,
+                    "endOffset": 2394
+                },
+                "from": {
+                    "file": "/home/deki/Projects/Messaging/chips/src/main/res/values-b+sr+Latn/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1091,
+                        "endColumn": 77,
+                        "endOffset": 1164
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2399,
+                    "endColumn": 84,
+                    "endOffset": 2479
+                },
+                "from": {
+                    "file": "/home/deki/Projects/Messaging/chips/src/main/res/values-b+sr+Latn/strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1649,
+                        "endColumn": 84,
+                        "endOffset": 1729
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2484,
+                    "endColumn": 83,
+                    "endOffset": 2563
+                },
+                "from": {
+                    "file": "/home/deki/Projects/Messaging/chips/src/main/res/values-b+sr+Latn/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1565,
+                        "endColumn": 83,
+                        "endOffset": 1644
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2568,
+                    "endColumn": 110,
+                    "endOffset": 2674
+                },
+                "from": {
+                    "file": "/home/deki/Projects/Messaging/chips/src/main/res/values-b+sr+Latn/strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1734,
+                        "endColumn": 110,
+                        "endOffset": 1840
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2679,
+                    "endColumn": 89,
+                    "endOffset": 2764
+                },
+                "from": {
+                    "file": "/home/deki/Projects/Messaging/chips/src/main/res/values-b+sr+Latn/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 910,
+                        "endColumn": 89,
+                        "endOffset": 995
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2769,
+                    "endColumn": 90,
+                    "endOffset": 2855
+                },
+                "from": {
+                    "file": "/home/deki/Projects/Messaging/chips/src/main/res/values-b+sr+Latn/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1000,
+                        "endColumn": 90,
+                        "endOffset": 1086
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2860,
+                    "endColumn": 138,
+                    "endOffset": 2994
+                },
+                "from": {
+                    "file": "/home/deki/Projects/Messaging/chips/src/main/res/values-b+sr+Latn/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1422,
+                        "endColumn": 142,
+                        "endOffset": 1560
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2999,
+                    "endColumn": 101,
+                    "endOffset": 3096
+                },
+                "from": {
+                    "file": "/home/deki/Projects/Messaging/chips/src/main/res/values-b+sr+Latn/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 804,
+                        "endColumn": 105,
+                        "endOffset": 905
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 3101,
+                    "endColumn": 83,
+                    "endOffset": 3180
+                },
+                "from": {
+                    "file": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/values-b+sr+Latn/values-b+sr+Latn.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2018,
+                        "endColumn": 83,
+                        "endOffset": 2097
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 3185,
+                    "endColumn": 100,
+                    "endOffset": 3281
+                },
+                "from": {
+                    "file": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/values-b+sr+Latn/values-b+sr+Latn.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2102,
+                        "endColumn": 100,
+                        "endOffset": 2198
+                    }
+                }
+            }
+        ]
+    }
+]

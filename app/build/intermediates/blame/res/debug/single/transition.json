@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/transition/explode.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/transition/explode.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/transition/fade.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/transition/fade.xml"
+    }
+]

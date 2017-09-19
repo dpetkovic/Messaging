@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/deki/Projects/Messaging/vcard/src/main/assets"/><source path="/home/deki/Projects/Messaging/vcard/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/home/deki/Projects/Messaging/vcard/src/release/assets"/></dataSet></merger>

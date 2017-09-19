@@ -1,0 +1,7 @@
+#Tue Sep 19 15:49:58 CEST 2017
+base.0=/home/deki/Projects/Messaging/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ccf66782d3c2125d890d478b319c3d3e6483cfe8
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/deki/Projects/Messaging/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9b0452226f5ed0c30bfc8eef7190f0a030308473/classes.dex
+base.1=/home/deki/Projects/Messaging/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9b0452226f5ed0c30bfc8eef7190f0a030308473
+file.0=/home/deki/Projects/Messaging/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ccf66782d3c2125d890d478b319c3d3e6483cfe8/classes.dex

@@ -1,0 +1,558 @@
+[
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/chips_alternates_dropdown_item.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/chips_alternates_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/message_audio_attachment.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/message_audio_attachment.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/people_and_options_fragment.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/people_and_options_fragment.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/photo_activity_view.xml",
+        "source": "/home/deki/Projects/Messaging/photoviewer/build/intermediates/bundles/default/res/layout/photo_activity_view.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/attachment_single_video.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/attachment_single_video.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/message_video_attachment.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/message_video_attachment.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/widget_conversation_list_item.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/widget_conversation_list_item.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/attachment_chooser_vcard.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/attachment_chooser_vcard.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/sim_selector_item_view.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/sim_selector_item_view.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/widget_message_item_incoming.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/widget_message_item_incoming.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/people_and_options_section_header.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/people_and_options_section_header.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/contact_list_item_view.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/contact_list_item_view.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/audio_attachment_view.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/audio_attachment_view.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/group_mms_setting_dialog.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/group_mms_setting_dialog.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/widget_message_item_outgoing.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/widget_message_item_outgoing.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/fastscroll_track.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/fastscroll_track.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/conversation_fragment.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/conversation_fragment.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/mms_config_debug_fragment.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/mms_config_debug_fragment.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/sms_mms_dump_file_list_item.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/sms_mms_dump_file_list_item.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/conversation_message_view.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/conversation_message_view.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/attachment_single_vcard.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/attachment_single_vcard.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/conversation_list_fragment.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/conversation_list_fragment.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/settings_item_view.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/settings_item_view.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/mediapicker_camera_chooser.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/mediapicker_camera_chooser.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/debug_sms_mms_from_dump_file_dialog.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/debug_sms_mms_from_dump_file_dialog.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/action_bar_conversation_name.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/action_bar_conversation_name.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/mediapicker_fragment.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/mediapicker_fragment.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/sms_free_storage_action_item_view.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/sms_free_storage_action_item_view.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/blocked_participants_fragment.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/blocked_participants_fragment.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/mediapicker_image_chooser.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/mediapicker_image_chooser.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/attachment_multiple_video.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/attachment_multiple_video.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/share_intent_activity.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/share_intent_activity.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/apn_preference_layout.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/apn_preference_layout.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/vcard_detail_activity.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/vcard_detail_activity.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/video_thumbnail_view.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/video_thumbnail_view.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/sim_selector_view.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/sim_selector_view.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/widget_conversation.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/widget_conversation.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/conversation_activity.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/conversation_activity.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/attachment_single_image.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/attachment_single_image.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/share_intent_conversation_list_view.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/share_intent_conversation_list_view.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/debug_mmsconfig_item_view.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/debug_mmsconfig_item_view.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/blocked_participant_list_item_view.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/blocked_participant_list_item_view.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/vcard_detail_fragment.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/vcard_detail_fragment.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/enter_phone_number_view.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/enter_phone_number_view.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/frequent_contacts_list_view.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/frequent_contacts_list_view.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/add_contacts_confirmation_dialog_body.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/add_contacts_confirmation_dialog_body.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/mediapicker_location_chooser.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/mediapicker_location_chooser.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/conversation_list_item_view.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/conversation_list_item_view.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/contact_picker_fragment.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/contact_picker_fragment.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/chips_autocomplete_recipient_dropdown_item.xml",
+        "source": "/home/deki/Projects/Messaging/chips/build/intermediates/bundles/default/res/layout/chips_autocomplete_recipient_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/place_card.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/place_card.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/widget_loading.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/widget_loading.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/license_activity.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/license_activity.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/settings_fragment.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/settings_fragment.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/attachment_chooser_image.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/attachment_chooser_image.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/sms_storage_low_warning_dialog.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/sms_storage_low_warning_dialog.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/debug_mmsconfig_fragment.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/debug_mmsconfig_fragment.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/attachment_chooser_fragment.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/attachment_chooser_fragment.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/viewgroup_vertical_explode_animation_popup.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/viewgroup_vertical_explode_animation_popup.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/attachment_preview.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/attachment_preview.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/fastscroll_preview.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/fastscroll_preview.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/attachment_chooser_audio.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/attachment_chooser_audio.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/blocked_participants_activity.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/blocked_participants_activity.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/more_item.xml",
+        "source": "/home/deki/Projects/Messaging/chips/build/intermediates/bundles/default/res/layout/more_item.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/person_item_view.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/person_item_view.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/custom_header_view_pager.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/custom_header_view_pager.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/people_list_item_view.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/people_list_item_view.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/open_source_licenses.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/open_source_licenses.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/fastscroll_thumb.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/fastscroll_thumb.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/all_contacts_list_view.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/all_contacts_list_view.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/attachment_more_text_view.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/attachment_more_text_view.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/test_activity.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/test_activity.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/attachment_pending_item.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/attachment_pending_item.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/attachment_chooser_activity.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/attachment_chooser_activity.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/message_vcard_attachment.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/message_vcard_attachment.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/attachment_multiple_audio.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/attachment_multiple_audio.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/people_options_item_view.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/people_options_item_view.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/photo_fragment_view.xml",
+        "source": "/home/deki/Projects/Messaging/photoviewer/build/intermediates/bundles/default/res/layout/photo_fragment_view.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/permission_check_activity.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/permission_check_activity.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/people_and_options_activity.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/people_and_options_activity.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/mediapicker_location_container.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/mediapicker_location_container.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/mediapicker_audio_chooser.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/mediapicker_audio_chooser.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/attachment_single_audio.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/attachment_single_audio.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/snack_bar.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/snack_bar.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/attachment_chooser_video.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/attachment_chooser_video.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/chips_recipient_dropdown_item.xml",
+        "source": "/home/deki/Projects/Messaging/chips/build/intermediates/bundles/default/res/layout/chips_recipient_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/notification_template_custom_big.xml",
+        "source": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/mediapicker_tab_button.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/mediapicker_tab_button.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/debug_mmsconfig_activity.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/debug_mmsconfig_activity.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/conversation_list_activity.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/conversation_list_activity.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/attachment_multiple_vcard.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/attachment_multiple_vcard.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/list_empty_view.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/list_empty_view.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/compose_message_view.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/compose_message_view.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/copy_contact_dialog_view.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/copy_contact_dialog_view.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/work_directory_header.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/work_directory_header.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/widget_missing_permission.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/widget_missing_permission.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/widget_conversation_list.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/widget_conversation_list.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/gallery_grid_item_view.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/gallery_grid_item_view.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/attachment_multiple_image.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/attachment_multiple_image.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/layout/attachment_grid_item_view.xml",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/layout/attachment_grid_item_view.xml"
+    }
+]

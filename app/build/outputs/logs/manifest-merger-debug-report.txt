@@ -1,0 +1,838 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:17:1-526:12
+	package
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:18:5-36
+		INJECTED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml
+		INJECTED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml
+		INJECTED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:17:11-69
+	android:versionCode
+		INJECTED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml
+		INJECTED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml
+	android:installLocation
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:19:5-43
+uses-sdk
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:21:5-74
+MERGED from [Messaging:chips:unspecified] /home/deki/Projects/Messaging/chips/build/intermediates/bundles/default/AndroidManifest.xml:22:5-24:41
+MERGED from [Messaging:photoviewer:unspecified] /home/deki/Projects/Messaging/photoviewer/build/intermediates/bundles/default/AndroidManifest.xml:23:5-25:41
+MERGED from [Messaging:vcard:unspecified] /home/deki/Projects/Messaging/vcard/build/intermediates/bundles/default/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /home/deki/.android/build-cache/a9f9b72e09d4c8149b56fe3718756b25d10749c6/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/deki/.android/build-cache/0b9a45d34cdd12e95d7bd9df55b65e7cbcc5b813/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/deki/.android/build-cache/6a5849dabb2e7675f749aa18ec0771af775391ad/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/deki/.android/build-cache/c15831281af2e9fe54b2b91403e8fd4c7f764ba9/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/deki/.android/build-cache/3b9188eed9ccc2371bec8dbd2b1068785be4dd90/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/deki/.android/build-cache/862d906139b51cba8dadabc6d4520ff292d589ba/output/AndroidManifest.xml:20:5-43
+MERGED from [Messaging:framesequence:unspecified] /home/deki/Projects/Messaging/framesequence/build/intermediates/bundles/default/AndroidManifest.xml:22:5-24:41
+MERGED from [Messaging:common:unspecified] /home/deki/Projects/Messaging/common/build/intermediates/bundles/default/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/deki/.android/build-cache/802fcf5809c8d95b9ce4d1928952eb1345d2d786/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/deki/.android/build-cache/fc33dac998040fee46d2d343860b56ad22c9c731/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /home/deki/.android/build-cache/24b8f79c1cf9d5430314b683e155441d8d2283b1/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:21:42-71
+		INJECTED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml
+		INJECTED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:21:15-41
+		INJECTED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml
+		INJECTED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:24:22-65
+uses-permission#android.permission.READ_SMS
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:26:5-66
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:26:22-64
+uses-permission#android.permission.WRITE_SMS
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:27:5-67
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:27:22-65
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:28:5-69
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:28:22-67
+uses-permission#android.permission.RECEIVE_MMS
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:29:5-69
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:29:22-67
+uses-permission#android.permission.SEND_SMS
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:30:5-66
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:30:22-64
+uses-permission#android.permission.INTERNET
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:32:5-67
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:32:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:33:5-78
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:33:22-76
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:34:5-79
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:34:22-76
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:36:5-71
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:36:22-69
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:37:5-72
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:37:22-70
+uses-permission#android.permission.READ_PROFILE
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:39:5-70
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:39:22-68
+uses-permission#android.permission.VIBRATE
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:40:5-65
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:40:22-63
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:41:5-74
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:41:22-72
+uses-permission#android.permission.CAMERA
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:43:5-65
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:43:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:44:5-80
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:44:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:45:5-79
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:45:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:46:5-71
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:46:22-68
+uses-permission#android.permission.CALL_PHONE
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:47:5-69
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:47:22-66
+uses-permission#android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:48:5-88
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:48:22-85
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:49:5-81
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:49:22-78
+uses-feature#android.hardware.camera
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:52:5-85
+	android:required
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:52:58-82
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:52:19-57
+uses-feature#android.hardware.camera.front
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:53:5-91
+	android:required
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:53:64-88
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:53:19-63
+uses-feature#android.hardware.camera.autofocus
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:54:5-95
+	android:required
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:54:68-92
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:54:19-67
+uses-feature#android.hardware.microphone
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:55:5-89
+	android:required
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:55:62-86
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:55:19-61
+uses-feature#android.hardware.screen.portrait
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:56:5-94
+	android:required
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:56:67-91
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:56:19-66
+application
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:58:5-524:19
+MERGED from [Messaging:chips:unspecified] /home/deki/Projects/Messaging/chips/build/intermediates/bundles/default/AndroidManifest.xml:26:5-20
+MERGED from [Messaging:photoviewer:unspecified] /home/deki/Projects/Messaging/photoviewer/build/intermediates/bundles/default/AndroidManifest.xml:27:5-20
+MERGED from [Messaging:vcard:unspecified] /home/deki/Projects/Messaging/vcard/build/intermediates/bundles/default/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/deki/.android/build-cache/a9f9b72e09d4c8149b56fe3718756b25d10749c6/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/deki/.android/build-cache/0b9a45d34cdd12e95d7bd9df55b65e7cbcc5b813/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/deki/.android/build-cache/6a5849dabb2e7675f749aa18ec0771af775391ad/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/deki/.android/build-cache/c15831281af2e9fe54b2b91403e8fd4c7f764ba9/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/deki/.android/build-cache/3b9188eed9ccc2371bec8dbd2b1068785be4dd90/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/deki/.android/build-cache/862d906139b51cba8dadabc6d4520ff292d589ba/output/AndroidManifest.xml:26:5-20
+MERGED from [Messaging:framesequence:unspecified] /home/deki/Projects/Messaging/framesequence/build/intermediates/bundles/default/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/deki/.android/build-cache/fc33dac998040fee46d2d343860b56ad22c9c731/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/deki/.android/build-cache/24b8f79c1cf9d5430314b683e155441d8d2283b1/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:62:9-41
+	android:supportsRtl
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:64:9-35
+	android:allowBackup
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:60:9-36
+	android:icon
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:61:9-45
+	android:theme
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:63:9-42
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:59:9-62
+activity#com.android.messaging.ui.conversationlist.ConversationListActivity
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:67:9-79:20
+	android:screenOrientation
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:70:13-45
+	android:label
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:71:13-45
+	android:configChanges
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:69:13-74
+	android:theme
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:72:13-71
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:68:13-73
+intent-filter#android.intent.action.MAIN+android.intent.category.APP_MESSAGING+android.intent.category.DEFAULT+android.intent.category.LAUNCHER
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:73:13-78:29
+action#android.intent.action.MAIN
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:74:17-69
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:74:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:75:17-77
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:75:27-74
+category#android.intent.category.DEFAULT
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:76:17-76
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:76:27-73
+category#android.intent.category.APP_MESSAGING
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:77:17-82
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:77:27-79
+activity#com.android.messaging.ui.PermissionCheckActivity
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:81:9-84:77
+	android:screenOrientation
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:83:13-49
+	android:configChanges
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:84:13-74
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:82:13-55
+activity#com.android.messaging.ui.conversation.LaunchConversationActivity
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:87:9-110:20
+	android:screenOrientation
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:90:13-45
+	android:noHistory
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:92:13-37
+	android:configChanges
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:89:13-74
+	android:documentLaunchMode
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:93:13-48
+	android:theme
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:91:13-45
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:88:13-71
+intent-filter#android.intent.action.SENDTO+android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:94:13-101:29
+action#android.intent.action.VIEW
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:95:17-69
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:95:25-66
+action#android.intent.action.SENDTO
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:96:17-71
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:96:25-68
+category#android.intent.category.BROWSABLE
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:98:17-78
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:98:27-75
+data
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:99:17-46
+	android:scheme
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:99:23-43
+activity#com.android.messaging.ui.conversationlist.ArchivedConversationListActivity
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:113:9-123:20
+	android:screenOrientation
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:116:13-45
+	android:label
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:117:13-60
+	android:parentActivityName
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:119:13-108
+	android:configChanges
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:115:13-74
+	android:theme
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:118:13-79
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:114:13-81
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:120:13-122:102
+	android:value
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:122:17-99
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:121:17-63
+activity#com.android.messaging.ui.conversation.ConversationActivity
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:126:9-136:20
+	android:screenOrientation
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:129:13-45
+	android:parentActivityName
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:132:13-108
+	android:windowSoftInputMode
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:130:13-67
+	android:configChanges
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:128:13-74
+	android:theme
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:131:13-67
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:127:13-65
+activity#com.android.messaging.ui.BlockedParticipantsActivity
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:139:9-149:20
+	android:screenOrientation
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:142:13-45
+	android:label
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:143:13-59
+	android:parentActivityName
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:145:13-108
+	android:configChanges
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:141:13-74
+	android:theme
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:144:13-46
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:140:13-59
+activity#com.android.messaging.ui.photoviewer.BuglePhotoViewActivity
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:152:9-158:11
+	android:screenOrientation
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:156:13-45
+	android:label
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:154:13-62
+	android:configChanges
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:155:13-74
+	android:theme
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:157:13-55
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:153:13-66
+activity#com.android.messaging.ui.appsettings.SettingsActivity
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:161:9-171:20
+	android:screenOrientation
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:166:13-45
+	android:label
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:163:13-60
+	android:parentActivityName
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:167:13-108
+	android:configChanges
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:165:13-74
+	android:theme
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:164:13-63
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:162:13-60
+activity#com.android.messaging.ui.appsettings.PerSubscriptionSettingsActivity
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:173:9-183:20
+	android:screenOrientation
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:178:13-45
+	android:label
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:175:13-69
+	android:parentActivityName
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:179:13-95
+	android:configChanges
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:177:13-74
+	android:theme
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:176:13-63
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:174:13-75
+activity#com.android.messaging.ui.appsettings.ApplicationSettingsActivity
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:185:9-200:20
+	android:screenOrientation
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:190:13-45
+	android:label
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:187:13-68
+	android:parentActivityName
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:191:13-95
+	android:configChanges
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:189:13-74
+	android:theme
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:188:13-63
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:186:13-71
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT+android.intent.category.NOTIFICATION_PREFERENCES
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:195:13-199:29
+category#android.intent.category.NOTIFICATION_PREFERENCES
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:198:17-93
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:198:27-90
+activity#com.android.messaging.ui.conversationlist.ShareIntentActivity
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:203:9-227:20
+	android:screenOrientation
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:206:13-45
+	android:excludeFromRecents
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:208:13-46
+	android:configChanges
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:205:13-74
+	android:documentLaunchMode
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:209:13-48
+	android:theme
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:207:13-61
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:204:13-68
+intent-filter#android.intent.action.SEND+android.intent.category.DEFAULT
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:210:13-220:29
+	android:label
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:211:17-59
+action#android.intent.action.SEND
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:212:17-69
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:212:25-66
+intent-filter#android.intent.action.SEND_MULTIPLE+android.intent.category.DEFAULT
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:221:13-226:29
+	android:label
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:222:21-63
+action#android.intent.action.SEND_MULTIPLE
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:223:17-78
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:223:25-75
+activity#com.android.messaging.ui.conversationsettings.PeopleAndOptionsActivity
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:230:9-240:20
+	android:screenOrientation
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:233:13-45
+	android:label
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:234:13-70
+	android:parentActivityName
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:236:13-100
+	android:configChanges
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:232:13-74
+	android:theme
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:235:13-46
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:231:13-77
+activity#com.android.messaging.ui.LicenseActivity
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:243:9-247:20
+	android:label
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:246:13-49
+	android:exported
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:244:13-36
+	android:theme
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:245:13-67
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:243:19-53
+activity#com.android.messaging.ui.conversationlist.ForwardMessageActivity
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:250:9-256:20
+	android:screenOrientation
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:253:13-45
+	android:label
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:254:13-67
+	android:configChanges
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:252:13-74
+	android:theme
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:255:13-61
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:251:13-71
+activity#com.android.messaging.ui.RemoteInputEntrypointActivity
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:263:9-269:20
+	android:screenOrientation
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:266:13-45
+	android:exported
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:267:13-37
+	android:configChanges
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:265:13-74
+	android:theme
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:268:13-45
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:264:13-61
+activity#com.android.messaging.ui.VCardDetailActivity
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:272:9-281:20
+	android:screenOrientation
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:275:13-45
+	android:label
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:276:13-64
+	android:configChanges
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:274:13-74
+	android:theme
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:277:13-46
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:273:13-51
+activity#com.android.messaging.ui.attachmentchooser.AttachmentChooserActivity
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:284:9-294:20
+	android:screenOrientation
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:287:13-45
+	android:label
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:288:13-70
+	android:parentActivityName
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:290:13-100
+	android:configChanges
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:286:13-74
+	android:theme
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:289:13-46
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:285:13-75
+activity#com.android.messaging.ui.TestActivity
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:300:9-303:20
+	android:configChanges
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:302:13-74
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:301:13-44
+activity#com.android.messaging.ui.debug.DebugMmsConfigActivity
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:305:9-311:20
+	android:screenOrientation
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:308:13-45
+	android:exported
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:310:13-37
+	android:configChanges
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:307:13-74
+	android:theme
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:309:13-61
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:306:13-60
+provider#com.android.messaging.datamodel.MessagingContentProvider
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:313:9-316:20
+	android:authorities
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:314:19-97
+	android:label
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:313:70-102
+	android:exported
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:315:19-43
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:313:19-69
+provider#com.android.messaging.datamodel.MmsFileProvider
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:318:9-321:46
+	android:authorities
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:319:19-88
+	android:grantUriPermissions
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:320:19-53
+	android:exported
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:321:19-43
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:318:19-60
+provider#com.android.messaging.datamodel.MediaScratchFileProvider
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:323:9-326:46
+	android:authorities
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:324:19-97
+	android:grantUriPermissions
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:325:19-53
+	android:exported
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:326:19-43
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:323:19-69
+service#com.android.messaging.datamodel.action.ActionServiceImpl
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:330:9-70
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:330:18-68
+service#com.android.messaging.datamodel.action.BackgroundWorkerService
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:331:9-76
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:331:18-74
+receiver#com.android.messaging.receiver.MmsWapPushReceiver
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:337:9-344:20
+	android:enabled
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:338:19-42
+	android:permission
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:339:19-77
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:337:19-62
+intent-filter#android.provider.Telephony.WAP_PUSH_RECEIVED
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:340:13-343:29
+	android:priority
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:340:28-57
+action#android.provider.Telephony.WAP_PUSH_RECEIVED
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:341:17-87
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:341:25-84
+receiver#com.android.messaging.receiver.SmsReceiver
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:345:9-354:20
+	android:enabled
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:346:19-42
+	android:permission
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:347:19-72
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:345:19-55
+intent-filter#android.provider.Telephony.SMS_RECEIVED
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:348:13-350:29
+	android:priority
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:348:28-57
+action#android.provider.Telephony.SMS_RECEIVED
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:349:17-82
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:349:25-79
+intent-filter#android.provider.Telephony.MMS_DOWNLOADED
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:351:13-353:29
+	android:priority
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:351:28-57
+action#android.provider.Telephony.MMS_DOWNLOADED
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:352:17-84
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:352:25-81
+receiver#com.android.messaging.receiver.AbortMmsWapPushReceiver
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:358:9-365:20
+	android:enabled
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:359:19-42
+	android:permission
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:360:19-77
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:358:19-67
+receiver#com.android.messaging.receiver.AbortSmsReceiver
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:366:9-372:20
+	android:enabled
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:367:19-42
+	android:permission
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:368:19-72
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:366:19-60
+receiver#com.android.messaging.receiver.MmsWapPushDeliverReceiver
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:375:9-381:20
+	android:permission
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:376:19-77
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:375:19-69
+intent-filter#android.provider.Telephony.WAP_PUSH_DELIVER
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:377:13-380:29
+action#android.provider.Telephony.WAP_PUSH_DELIVER
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:378:17-86
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:378:25-83
+receiver#com.android.messaging.receiver.SmsDeliverReceiver
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:382:9-387:20
+	android:permission
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:383:19-72
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:382:19-62
+intent-filter#android.provider.Telephony.SMS_DELIVER
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:384:13-386:29
+action#android.provider.Telephony.SMS_DELIVER
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:385:17-81
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:385:25-78
+receiver#com.android.messaging.receiver.SendStatusReceiver
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:389:9-406:20
+	android:exported
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:390:17-41
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:389:19-62
+intent-filter#com.android.messaging.receiver.SendStatusReceiver.MESSAGE_SENT
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:391:13-394:29
+action#com.android.messaging.receiver.SendStatusReceiver.MESSAGE_SENT
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:392:17-105
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:392:25-102
+intent-filter#com.android.messaging.receiver.SendStatusReceiver.MESSAGE_DELIVERED
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:395:13-397:29
+action#com.android.messaging.receiver.SendStatusReceiver.MESSAGE_DELIVERED
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:396:17-110
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:396:25-107
+intent-filter#com.android.messaging.receiver.SendStatusReceiver.MMS_SENT
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:398:13-401:29
+action#com.android.messaging.receiver.SendStatusReceiver.MMS_SENT
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:399:17-101
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:399:25-98
+intent-filter#com.android.messaging.receiver.SendStatusReceiver.MMS_DOWNLOADED
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:402:13-405:29
+action#com.android.messaging.receiver.SendStatusReceiver.MMS_DOWNLOADED
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:403:17-107
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:403:25-104
+service#com.android.messaging.datamodel.NoConfirmationSmsSendService
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:408:9-417:19
+	android:exported
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:410:18-41
+	android:permission
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:409:18-82
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:408:18-72
+intent-filter#android.intent.action.RESPOND_VIA_MESSAGE+android.intent.category.DEFAULT
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:411:13-416:29
+action#android.intent.action.RESPOND_VIA_MESSAGE
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:412:17-84
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:412:25-81
+activity#com.android.messaging.ui.ClassZeroActivity
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:419:9-426:20
+	android:screenOrientation
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:421:19-51
+	android:label
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:422:19-67
+	android:excludeFromRecents
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:425:19-52
+	android:launchMode
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:424:19-50
+	android:configChanges
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:420:19-80
+	android:theme
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:423:19-67
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:419:19-55
+activity#com.android.messaging.ui.SmsStorageLowWarningActivity
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:428:9-430:83
+	android:configChanges
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:430:19-80
+	android:theme
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:429:19-51
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:428:19-66
+activity#com.android.messaging.ui.appsettings.ApnSettingsActivity
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:432:9-436:104
+	android:screenOrientation
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:434:19-51
+	android:parentActivityName
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:436:19-101
+	android:configChanges
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:433:19-80
+	android:theme
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:435:19-52
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:432:19-69
+activity#com.android.messaging.ui.appsettings.ApnEditorActivity
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:438:9-442:106
+	android:screenOrientation
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:440:19-51
+	android:parentActivityName
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:442:19-104
+	android:configChanges
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:439:19-80
+	android:theme
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:441:19-52
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:438:19-67
+receiver#com.android.messaging.receiver.StorageStatusReceiver
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:444:9-451:20
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:444:19-65
+intent-filter#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:445:13-447:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:446:17-83
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:446:25-80
+intent-filter#android.intent.action.DEVICE_STORAGE_OK
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:448:13-450:29
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:449:17-82
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:449:25-79
+receiver#com.android.messaging.receiver.BootAndPackageReplacedReceiver
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:453:9-458:20
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:453:19-74
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.MY_PACKAGE_REPLACED
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:454:13-457:33
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:455:17-78
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:455:25-76
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:456:17-83
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:456:25-81
+receiver#com.android.messaging.receiver.NotificationReceiver
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:461:9-464:20
+	android:exported
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:463:13-37
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:462:13-58
+receiver#com.android.messaging.datamodel.action.ActionServiceImpl$PendingActionReceiver
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:467:9-473:20
+	android:exported
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:469:13-37
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:468:13-85
+intent-filter#com.android.messaging.datamodel.PENDING_ACTION
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:470:13-472:29
+action#com.android.messaging.datamodel.PENDING_ACTION
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:471:17-89
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:471:25-86
+receiver#com.android.messaging.receiver.DefaultSmsSubscriptionChangeReceiver
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:475:9-479:20
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:475:19-80
+intent-filter#android.telephony.action.DEFAULT_SMS_SUBSCRIPTION_CHANGED
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:476:13-478:29
+action#android.telephony.action.DEFAULT_SMS_SUBSCRIPTION_CHANGED
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:477:17-99
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:477:25-97
+receiver#com.android.messaging.widget.BugleWidgetProvider
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:482:9-492:20
+	android:label
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:483:17-65
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:482:19-61
+intent-filter#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:484:13-486:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:485:17-84
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:485:25-81
+intent-filter#com.android.Bugle.intent.action.ACTION_NOTIFY_CONVERSATIONS_CHANGED
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:487:13-489:29
+action#com.android.Bugle.intent.action.ACTION_NOTIFY_CONVERSATIONS_CHANGED
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:488:17-110
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:488:25-107
+meta-data#android.appwidget.provider
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:490:13-491:75
+	android:resource
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:491:24-72
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:490:24-65
+receiver#com.android.messaging.widget.WidgetConversationProvider
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:495:9-505:20
+	android:label
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:496:17-65
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:495:19-68
+intent-filter#com.android.Bugle.intent.action.ACTION_NOTIFY_MESSAGES_CHANGED
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:500:13-502:29
+action#com.android.Bugle.intent.action.ACTION_NOTIFY_MESSAGES_CHANGED
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:501:17-105
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:501:25-102
+service#com.android.messaging.widget.WidgetConversationListService
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:507:9-509:45
+	android:exported
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:509:18-42
+	android:permission
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:508:18-74
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:507:18-70
+service#com.android.messaging.widget.WidgetConversationService
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:511:9-513:45
+	android:exported
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:513:18-42
+	android:permission
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:512:18-74
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:511:18-66
+activity#com.android.messaging.ui.WidgetPickConversationActivity
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:515:9-521:20
+	android:label
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:517:13-45
+	android:theme
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:516:13-46
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:515:19-68
+intent-filter#android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:518:13-520:29
+action#android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:519:17-87
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:519:25-84
+service#android.support.v7.mms.MmsService
+ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:523:9-68
+	android:name
+		ADDED from /home/deki/Projects/Messaging/app/src/main/AndroidManifest.xml:523:18-66
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/deki/.android/build-cache/a9f9b72e09d4c8149b56fe3718756b25d10749c6/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/deki/.android/build-cache/0b9a45d34cdd12e95d7bd9df55b65e7cbcc5b813/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/deki/.android/build-cache/6a5849dabb2e7675f749aa18ec0771af775391ad/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/deki/.android/build-cache/c15831281af2e9fe54b2b91403e8fd4c7f764ba9/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/deki/.android/build-cache/3b9188eed9ccc2371bec8dbd2b1068785be4dd90/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/deki/.android/build-cache/862d906139b51cba8dadabc6d4520ff292d589ba/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/deki/.android/build-cache/802fcf5809c8d95b9ce4d1928952eb1345d2d786/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/deki/.android/build-cache/fc33dac998040fee46d2d343860b56ad22c9c731/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/deki/.android/build-cache/24b8f79c1cf9d5430314b683e155441d8d2283b1/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/deki/.android/build-cache/70561dbe78214da9202e6a0e815bf1ebf207eeaa/output/AndroidManifest.xml:26:9-47

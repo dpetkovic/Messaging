@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/drawable-nodpi/messenger_widget_preview.png",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/drawable-nodpi/messenger_widget_preview.png"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/drawable-nodpi/ic_person_wear.png",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/drawable-nodpi/ic_person_wear.png"
+    },
+    {
+        "merged": "/home/deki/Projects/Messaging/app/build/intermediates/res/merged/debug/drawable-nodpi/messenger_widget_conversation_preview.png",
+        "source": "/home/deki/Projects/Messaging/app/src/main/res/drawable-nodpi/messenger_widget_conversation_preview.png"
+    }
+]
